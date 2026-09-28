@@ -1,11 +1,11 @@
 {
-  "versao": 1,
+  "versao": 2,
   "esquema": "3",
-  "gerado_em": "2026-09-28T14:47:18Z",
+  "gerado_em": "2026-09-28T15:31:14Z",
   "arquivos": [
     {
       "caminho": "AdFontes.sqlite",
-      "sha256": "4f2329dd433bf16db1b138272b7aeb01e3187a6426ef0d87a6e09339aacec0c6",
+      "sha256": "f27084fda7a0d2e98a1ac9df506688ef99d5c694e2d42aed0d40667c0db558a9",
       "bytes": 200704
     },
     {
