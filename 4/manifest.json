@@ -1,0 +1,62 @@
+{
+  "versao": 1,
+  "esquema": "4",
+  "gerado_em": "2026-10-01T22:55:27Z",
+  "arquivos": [
+    {
+      "caminho": "AdFontes.sqlite",
+      "sha256": "c3c541782e1e4187201cef27e5c6c494fa11fc6a4f9332ce02777a3d430c08c2",
+      "bytes": 3014656
+    },
+    {
+      "caminho": "Arte/aquiles-david.jpg",
+      "sha256": "92b02149919052c13f12eee1637e93845c367198f05efdacc9c2ce7e0dfdadb6",
+      "bytes": 167169
+    },
+    {
+      "caminho": "Arte/aristoteles-rembrandt.jpg",
+      "sha256": "a229374d620c3b1ece2e5994eedecfcc88bafb1e8d3a4b08164125b639290c32",
+      "bytes": 137717
+    },
+    {
+      "caminho": "Arte/darwin-cameron.jpg",
+      "sha256": "33944186ae789a0dddc0414742f2d2dea68281ec1aeaa8b2b176efbe40c40048",
+      "bytes": 235031
+    },
+    {
+      "caminho": "Arte/darwin-wright-bomba-de-ar.jpg",
+      "sha256": "fc2fbb91bbf5e0ea9cf4c6bb49092959dfe07120082fe601ef821f1539932730",
+      "bytes": 122950
+    },
+    {
+      "caminho": "Arte/escola-atenas.jpg",
+      "sha256": "1829356bfdc17bc0f0a1cae83438acf47b7e21d961c91771d385cc74d6ae38dc",
+      "bytes": 285682
+    },
+    {
+      "caminho": "Arte/freud-brouillet-licao-clinica.jpg",
+      "sha256": "97ae1d536d144472460cc2bd63426eae3a2651b7316794a83973b4c5adf794ee",
+      "bytes": 193974
+    },
+    {
+      "caminho": "Arte/freud-halberstadt.jpg",
+      "sha256": "33ab012a8cff17bc629cc9829a4e32fa0be7eee3c1e764c018e6bb85bbdd2d14",
+      "bytes": 194769
+    },
+    {
+      "caminho": "Arte/marco-aurelio-delacroix.jpg",
+      "sha256": "a1f1bdf002cc9adb5bcfcb45b089095828058fada3c67834ade6a0fc1962aba2",
+      "bytes": 180936
+    },
+    {
+      "caminho": "Arte/seneca-rubens.jpg",
+      "sha256": "36867ab355272c26de55d02aa69da92f8fa7f59495fde8cb7185a928bf9331ef",
+      "bytes": 134794
+    },
+    {
+      "caminho": "Arte/vanitas-champaigne.jpg",
+      "sha256": "01b7026430b739057a426ff776389ed58030465ddbfabca97ee1255edebaf7d1",
+      "bytes": 163301
+    }
+  ]
+}
