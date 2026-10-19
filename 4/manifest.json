@@ -1,12 +1,12 @@
 {
-  "versao": 1,
+  "versao": 2,
   "esquema": "4",
-  "gerado_em": "2026-10-01T22:55:27Z",
+  "gerado_em": "2026-10-19T23:16:50Z",
   "arquivos": [
     {
       "caminho": "AdFontes.sqlite",
-      "sha256": "c3c541782e1e4187201cef27e5c6c494fa11fc6a4f9332ce02777a3d430c08c2",
-      "bytes": 3014656
+      "sha256": "a5e40694115265357903e81216ecff1e67ec16e8228054a4444c0df084b26f7c",
+      "bytes": 3051520
     },
     {
       "caminho": "Arte/aquiles-david.jpg",
